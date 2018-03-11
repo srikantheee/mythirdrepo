@@ -1,1 +1,1 @@
-hi this is for jenkins
+echo "hi this is for jenkins"
