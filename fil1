@@ -1,3 +1,1 @@
-echo "second time and updated"
-touch file{1..9}.txt
-sudo rm -rf file9.txt
+sudo mkdir jesus
