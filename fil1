@@ -1,2 +1,2 @@
 echo "second time and updated"
-touch file{1..5}.txt
+touch file{1..9}.txt
